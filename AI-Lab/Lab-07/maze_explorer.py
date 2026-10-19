@@ -35,3 +35,4 @@ def dfs_can_reach(maze, start, exit_room):
 
 result = dfs_can_reach(maze, "Entrance", "Exit")
 print("Can reach Exit from Entrance?", result)
+
